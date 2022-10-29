@@ -1,4 +1,4 @@
-Funny game where you should get to the castle and avoid the enemy animals and dangerous places.
+Funny game where you have to the castle and avoid the enemy animals and dangerous places.
 
 Settings instructions:
 
